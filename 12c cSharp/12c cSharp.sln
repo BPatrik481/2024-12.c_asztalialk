@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34301.259
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{BFDD762F-A158-427C-9746-D41FD546DEE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tobb elem", "tobb elem\tobb elem.csproj", "{ADEF405D-CFA9-4E8A-8DBB-75C104D4CB4B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BFDD762F-A158-427C-9746-D41FD546DEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BFDD762F-A158-427C-9746-D41FD546DEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BFDD762F-A158-427C-9746-D41FD546DEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BFDD762F-A158-427C-9746-D41FD546DEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADEF405D-CFA9-4E8A-8DBB-75C104D4CB4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADEF405D-CFA9-4E8A-8DBB-75C104D4CB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADEF405D-CFA9-4E8A-8DBB-75C104D4CB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADEF405D-CFA9-4E8A-8DBB-75C104D4CB4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F1378B4E-08EB-471B-8C41-66A819C42E94}
+		SolutionGuid = {7AABE06D-8C3C-41CC-94F7-349EDFC79A3D}
 	EndGlobalSection
 EndGlobal
