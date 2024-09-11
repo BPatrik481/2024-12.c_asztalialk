@@ -40,6 +40,7 @@ namespace test
             Console.WriteLine($"Páros számok: {paros}");
             Console.WriteLine($"Páratlan számok: {paratlan}");
             Console.ReadLine();
+
         }
     }
 }
