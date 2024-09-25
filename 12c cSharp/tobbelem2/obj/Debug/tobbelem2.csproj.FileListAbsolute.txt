@@ -1,0 +1,7 @@
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobbelem2\bin\Debug\tobbelem2.exe.config
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobbelem2\bin\Debug\tobbelem2.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobbelem2\bin\Debug\tobbelem2.pdb
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobbelem2\obj\Debug\tobbelem2.csproj.AssemblyReference.cache
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobbelem2\obj\Debug\tobbelem2.csproj.CoreCompileInputs.cache
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobbelem2\obj\Debug\tobbelem2.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobbelem2\obj\Debug\tobbelem2.pdb

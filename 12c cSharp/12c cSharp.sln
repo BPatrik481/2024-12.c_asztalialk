@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.34301.259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tobb elem", "tobb elem\tobb elem.csproj", "{ADEF405D-CFA9-4E8A-8DBB-75C104D4CB4B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tobbelem2", "tobbelem2\tobbelem2.csproj", "{DEE9DB1B-0985-43A1-9A35-3AECEF6FD450}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{ADEF405D-CFA9-4E8A-8DBB-75C104D4CB4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADEF405D-CFA9-4E8A-8DBB-75C104D4CB4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADEF405D-CFA9-4E8A-8DBB-75C104D4CB4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE9DB1B-0985-43A1-9A35-3AECEF6FD450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE9DB1B-0985-43A1-9A35-3AECEF6FD450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE9DB1B-0985-43A1-9A35-3AECEF6FD450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE9DB1B-0985-43A1-9A35-3AECEF6FD450}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

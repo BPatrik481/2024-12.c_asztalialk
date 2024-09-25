@@ -4,6 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*Írjunk olyan programot, amely addig kér
+be egész számokat a billentyűzetről, amíg azok összege meg nem haladja a 100-at. A
+beolvasás végén írjuk ki azt, hogy a bekért számok közül hány volt páros, és hány volt
+páratlan.*/
+
 namespace test
 {
     class Program

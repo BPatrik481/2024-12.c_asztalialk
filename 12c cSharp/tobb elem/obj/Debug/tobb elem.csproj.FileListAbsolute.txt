@@ -1,0 +1,7 @@
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobb elem\bin\Debug\tobb elem.exe.config
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobb elem\bin\Debug\tobb elem.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobb elem\bin\Debug\tobb elem.pdb
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobb elem\obj\Debug\tobb elem.csproj.AssemblyReference.cache
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobb elem\obj\Debug\tobb elem.csproj.CoreCompileInputs.cache
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobb elem\obj\Debug\tobb elem.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\tobb elem\obj\Debug\tobb elem.pdb
