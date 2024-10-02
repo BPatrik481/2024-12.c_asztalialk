@@ -1,0 +1,6 @@
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\HAág\bin\Debug\HAág.exe.config
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\HAág\bin\Debug\HAág.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\HAág\bin\Debug\HAág.pdb
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\HAág\obj\Debug\HAág.csproj.CoreCompileInputs.cache
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\HAág\obj\Debug\HAág.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\HAág\obj\Debug\HAág.pdb
