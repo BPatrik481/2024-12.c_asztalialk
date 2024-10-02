@@ -1,0 +1,7 @@
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\prefix\bin\Debug\prefix.exe.config
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\prefix\bin\Debug\prefix.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\prefix\bin\Debug\prefix.pdb
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\prefix\obj\Debug\prefix.csproj.AssemblyReference.cache
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\prefix\obj\Debug\prefix.csproj.CoreCompileInputs.cache
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\prefix\obj\Debug\prefix.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\prefix\obj\Debug\prefix.pdb
