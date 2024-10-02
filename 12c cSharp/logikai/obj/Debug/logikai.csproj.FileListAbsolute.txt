@@ -1,0 +1,7 @@
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\logikai\bin\Debug\logikai.exe.config
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\logikai\bin\Debug\logikai.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\logikai\bin\Debug\logikai.pdb
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\logikai\obj\Debug\logikai.csproj.CoreCompileInputs.cache
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\logikai\obj\Debug\logikai.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\logikai\obj\Debug\logikai.pdb
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\logikai\obj\Debug\logikai.csproj.AssemblyReference.cache
