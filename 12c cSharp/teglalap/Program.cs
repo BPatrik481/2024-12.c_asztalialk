@@ -29,6 +29,14 @@ namespace korhasab
             Console.WriteLine($"A {k2.GetAoldal()}, {k2.GetBoldal()} oldalú teglalap, kerülete: {k2.GetKerulet()}, területe: {k2.GetTerulet()} ");
 
             #endregion Eof 2. objektum
+            #region 3. objektum
+            tegla k3 = new tegla(123.845, 12.653);
+            k3.SetKerulet();
+            k3.SetTerulet();
+
+            Console.WriteLine($"A {k3.GetAoldal()}, {k3.GetBoldal()} oldalú teglalap, kerülete: {k3.GetKerulet()}, területe: {k3.GetTerulet()} ");
+
+            #endregion Eof 3. objektum
             Console.ReadKey();
         }
     }
