@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "prefix", "prefix\prefix.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAág", "HAág\HAág.csproj", "{1CAF6605-D0E4-4613-8C16-5A0496355712}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "korkerulet", "korkerulet\korkerulet.csproj", "{AA0C0B0F-F19D-44EE-A1C3-22F9BF9B0BBF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{1CAF6605-D0E4-4613-8C16-5A0496355712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CAF6605-D0E4-4613-8C16-5A0496355712}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CAF6605-D0E4-4613-8C16-5A0496355712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA0C0B0F-F19D-44EE-A1C3-22F9BF9B0BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0C0B0F-F19D-44EE-A1C3-22F9BF9B0BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0C0B0F-F19D-44EE-A1C3-22F9BF9B0BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0C0B0F-F19D-44EE-A1C3-22F9BF9B0BBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
