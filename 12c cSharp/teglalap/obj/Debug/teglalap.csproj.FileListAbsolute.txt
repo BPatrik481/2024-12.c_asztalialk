@@ -1,0 +1,7 @@
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\teglalap\bin\Debug\teglalap.exe.config
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\teglalap\bin\Debug\teglalap.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\teglalap\bin\Debug\teglalap.pdb
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\teglalap\obj\Debug\teglalap.csproj.AssemblyReference.cache
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\teglalap\obj\Debug\teglalap.csproj.CoreCompileInputs.cache
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\teglalap\obj\Debug\teglalap.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\teglalap\obj\Debug\teglalap.pdb

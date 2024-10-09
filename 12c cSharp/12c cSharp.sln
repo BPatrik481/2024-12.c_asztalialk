@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HAág", "HAág\HAág.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "korkerulet", "korkerulet\korkerulet.csproj", "{AA0C0B0F-F19D-44EE-A1C3-22F9BF9B0BBF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teglalap", "teglalap\teglalap.csproj", "{6F22E30C-06C7-4881-BF40-9068F11BDA8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{AA0C0B0F-F19D-44EE-A1C3-22F9BF9B0BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA0C0B0F-F19D-44EE-A1C3-22F9BF9B0BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA0C0B0F-F19D-44EE-A1C3-22F9BF9B0BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F22E30C-06C7-4881-BF40-9068F11BDA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F22E30C-06C7-4881-BF40-9068F11BDA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F22E30C-06C7-4881-BF40-9068F11BDA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F22E30C-06C7-4881-BF40-9068F11BDA8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

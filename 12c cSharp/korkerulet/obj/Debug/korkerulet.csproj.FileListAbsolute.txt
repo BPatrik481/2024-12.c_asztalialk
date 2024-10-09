@@ -1,0 +1,6 @@
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\korkerulet\bin\Debug\korkerulet.exe.config
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\korkerulet\bin\Debug\korkerulet.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\korkerulet\bin\Debug\korkerulet.pdb
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\korkerulet\obj\Debug\korkerulet.csproj.CoreCompileInputs.cache
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\korkerulet\obj\Debug\korkerulet.exe
+C:\Users\2021124\Source\Repos\BPatrik481\2024-12.c_asztalialk\12c cSharp\korkerulet\obj\Debug\korkerulet.pdb
